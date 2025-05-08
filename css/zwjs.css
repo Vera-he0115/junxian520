@@ -1,0 +1,61 @@
+*{padding: 0;margin: 0;}
+body{background:url(../images/bg.jpg) repeat;}
+ul,ol {list-style: none;}
+img {border: none;vertical-align: middle;}
+a {text-decoration: none;color: #ffffff;}
+h1,h2,h3,h4{font-weight: initial;}
+.header{height:380px;}
+.space_20{clear:both;height:20px;}
+/* 首页 */
+.jieshao{width: 980px;margin: auto;}
+.nav{height: 50px;background: #803d27;text-align: center;line-height: 50px;}
+.nav ul li{float: left;width:140px;margin: 0 10px;}
+.nav ul li:hover{background: #6a2e1a;color: #ffffff;}
+.grjianjie{width:676px;float:left;height:245px; background:#efedec;padding:20px;}
+.shaoxiact{background: #f1f3ff;box-sizing: border-box;padding:0 20px 20px 20px;border-left:1px solid#409ecd;border-right:1px solid#409ecd;}
+.sxbt h2{text-align: center;line-height: 48px;padding:15px 5px;}
+.gerenleft{float: left;margin-right: 20px;}
+.gerenright{float: left;margin-right: 20px;width: 200px;text-align: center;border: 1px solid#409ecd;}
+.gerenright h3{line-height: 36px;padding: 10px 0;background: #409ecd;color: #FFFFFF;}
+.gerenright p{line-height: 40px;border-bottom: 1px dotted#409ecd;font-size:16px; }
+.hjj{line-height:33px; font-size:16px;}
+.gerenright1{float: left; width: 496px;}
+.gerenright1 h3{line-height: 36px;padding: 10px 0;background: #409ecd;color: #FFFFFF;text-align: center;}
+.gerenright1 p{line-height: 27px;text-indent: 2em;border: 1px solid#409ecd;padding: 0 15px;}
+.gerenleft img{width: 200px;}
+.aihao ul li{float: left;width: 210px;text-align: center;margin: 0 10px;border: 1px solid#d5eef5;background: #d5eef5;color: #333333;}
+.aihao ul li img{width: 210px;height: 220px;}
+.aihao ul li p{line-height: 36px;}
+/* 剧情介绍 */
+.jqjj{width:940px;float:left;height:245px; background:#efedec;padding:20px;}
+.jqjs ul li{float: left;width: 210px;text-align: center;margin:10px;border: 1px solid#d5eef5;background: #d5eef5;color: #333333;}
+.jqjs ul li img{width: 210px;height: 300px;}
+.jqjs ul li p{line-height: 36px;}
+/* 角色简介 */
+.juese{margin-bottom:20px;}
+.jsjj{width:676px;float:left; background:#fafceb;padding-left:20px;padding-right:20px;padding-top:10px;padding-bottom:10px;border-radius:10px;height:180px;overflow:hidden;}
+.jsjjleft{float: left;margin-right: 20px;}
+.jsjjright{float: left;margin-right: 20px;width: 200px;text-align: center;border: 1px solid#409ecd;}
+.jsjjright h3{line-height: 36px;padding: 10px 0;background: #409ecd;color: #FFFFFF;}
+.jsjjright p{line-height: 40px;border-bottom: 1px dotted#409ecd;font-size:16px; }
+.jsjjright1{float: left; width: 496px;}
+.jsjjright1 h3{line-height: 36px;padding: 10px 0;background: #409ecd;color: #FFFFFF;text-align: center;}
+.jsjjright1 p{line-height: 27px;text-indent: 2em;border: 1px solid#409ecd;padding: 0 15px;}
+.jsjjleft img{width: 200px;height:200px;border-radius:10px;}
+
+/* 登录 */
+.denglu{background:#f1f3ff;padding: 20px 0;}
+.login{background: #f1f3ff;box-sizing: border-box;padding:20px 20px 20px 20px;width: 800px;margin: auto;}
+.loginleft{float: left;}
+.loginleft img{width: 300px;}
+.loginright{margin:0 auto;width: 460px;text-align: center;}
+.loginright h2{text-align: center;padding: 20px 0;}
+.loginright input{margin: 15px 0;height: 35px;width: 300px;padding-left: 15px;}
+.loginf {padding: 20px 71px;}
+
+/* 精彩片段  */
+.jcpd{ font-size:16px; background:#f1f3ff;width:95%;padding:30px;}
+.jcpd p{ border-bottom:#8d4833 dotted 1px;line-height:60px;}
+/* 版权信息 */
+footer{background: #6e3d2f;color: #FFFFFF;text-align: center;height:60px;}
+footer p{line-height:60px;}
